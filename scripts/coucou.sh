@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "coucou, Git c'est bien !"
+echo "coucou, Git c'est aussi  bien !"
